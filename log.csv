@@ -1,0 +1,12 @@
+24:05.9,Geolocation for 192.168.0.1,Country: N/A,Region: N/A
+24:05.9,Service on 192.168.0.1,Port 80,HTTP
+24:06.0,Service on 192.168.0.1,Port 22,SSH
+27:19.8,Geolocation for 192.168.0.1,Country: N/A,Region: N/A
+27:20.1,Service on 192.168.0.1,Port 80,HTTP
+27:20.1,Service on 192.168.0.1,Port 22,SSH
+33:22.9,Geolocation for 192.168.0.1,Country: N/A,Region: N/A
+33:23.0,Service on 192.168.0.1,Port 80,HTTP
+33:23.0,Service on 192.168.0.1,Port 22,SSH
+33:25.5,Vulnerability on 192.168.0.1 - Port 80,CVE-2023-1234,
+33:25.5,Vulnerability on 192.168.0.1 - Port 80,CVE-2023-5678,
+33:25.6,Vulnerability on 192.168.0.1 - Port 22,CVE-2023-4567,
